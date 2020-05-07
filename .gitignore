@@ -97,3 +97,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+oldData/QC_simulation_v1.0.py
+oldData/QC_simulation_v2.0.py
+oldData/QC_simulation_v2.0_20170105.py
+oldData/QC_v1.0.py
+oldData/QC_v1.0_20161216.py
+oldData/QC_v3.0_20160109.py
+oldData/QC_v3.0_20170426.py
+oldData/QC_v3.0_20170512.py
